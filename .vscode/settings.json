@@ -4,5 +4,9 @@
     "[rust]": {
         "editor.defaultFormatter": "rust-lang.rust-analyzer",
         "editor.formatOnSave": true
-    }
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+        "editor.formatOnSave": true
+    },
 }
