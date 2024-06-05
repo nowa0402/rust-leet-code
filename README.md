@@ -11,3 +11,7 @@
 2. Merge Two Sorted Lists
     - [link](https://leetcode.com/problems/merge-two-sorted-lists/)
     - [code](./merge_two_sorted_lists/)
+
+3. Palindrome Number
+    - [link](https://leetcode.com/problems/palindrome-number/)
+    - [code](./palindrome_number/)
