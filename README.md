@@ -15,3 +15,7 @@
 3. Palindrome Number
     - [link](https://leetcode.com/problems/palindrome-number/)
     - [code](./palindrome_number/)
+
+4. Roman to Integer
+    - [link](https://leetcode.com/problems/roman-to-integer/)
+    - [code](./roman_to_integer/)
