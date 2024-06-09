@@ -19,3 +19,7 @@
 4. Roman to Integer
     - [link](https://leetcode.com/problems/roman-to-integer/)
     - [code](./roman_to_integer/)
+
+5. Longest Common Prefix
+    - [link](https://leetcode.com/problems/longest-common-prefix/)
+    - [code](./longest_common_prefix/)
