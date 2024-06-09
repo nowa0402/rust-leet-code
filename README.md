@@ -23,3 +23,7 @@
 5. Longest Common Prefix
     - [link](https://leetcode.com/problems/longest-common-prefix/)
     - [code](./longest_common_prefix/)
+
+6. Valid Parentheses
+    - [link](https://leetcode.com/problems/valid-parentheses/)
+    - [code](./valid_parentheses/)
