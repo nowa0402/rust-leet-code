@@ -27,3 +27,7 @@
 6. Valid Parentheses
     - [link](https://leetcode.com/problems/valid-parentheses/)
     - [code](./valid_parentheses/)
+
+7. Find the Index of the First Occurrence in a String
+    - [link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+    - [code](./find_index_first_occurrence/)
