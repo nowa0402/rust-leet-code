@@ -31,3 +31,7 @@
 7. Find the Index of the First Occurrence in a String
     - [link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
     - [code](./find_index_first_occurrence/)
+
+8. Plus One
+    - [link](https://leetcode.com/problems/plus-one/)
+    - [code](./plus_one/)
