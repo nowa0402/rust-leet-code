@@ -35,3 +35,7 @@
 8. Plus One
     - [link](https://leetcode.com/problems/plus-one/)
     - [code](./plus_one/)
+
+9. Single Number
+    - [link](https://leetcode.com/problems/single-number/description/)
+    - [code](./single_number/)
