@@ -37,5 +37,9 @@
     - [code](./plus_one/)
 
 9. Single Number
-    - [link](https://leetcode.com/problems/single-number/description/)
+    - [link](https://leetcode.com/problems/single-number/)
     - [code](./single_number/)
+
+10. Remove Duplicates from Sorted Array
+    - [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+    - [code](./remove_duplicates_from_sorted_array/)
