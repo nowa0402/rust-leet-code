@@ -43,3 +43,7 @@
 10. Remove Duplicates from Sorted Array
     - [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
     - [code](./remove_duplicates_from_sorted_array/)
+
+11. Remove Element
+    - [link](https://leetcode.com/problems/remove-element/)
+    - [code](./remove_element/)
