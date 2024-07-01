@@ -47,3 +47,7 @@
 11. Remove Element
     - [link](https://leetcode.com/problems/remove-element/)
     - [code](./remove_element/)
+
+12. Valid Palindrome
+    - [link](https://leetcode.com/problems/valid-palindrome/)
+    - [code](./valid_palindrome/)
