@@ -51,3 +51,7 @@
 12. Valid Palindrome
     - [link](https://leetcode.com/problems/valid-palindrome/)
     - [code](./valid_palindrome/)
+
+13. String to Integer (atoi)
+    - [link](https://leetcode.com/problems/string-to-integer-atoi/)
+    - [code](./string_to_integer_atoi/)
